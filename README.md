@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML models and web development projects<br><br>🌱 I’m currently learning backend development, REST APIs and databases<br><br>⚡ Fun fact: I enjoy exploring the intersection of art and technology
+Hello, I'm an Engineering student and currently working on AI/ML projects and Full-Stack Web Applications<br><br>⚡ Fun fact: I enjoy exploring the intersection of math and music
 
 
 ## 🌐 Socials:
