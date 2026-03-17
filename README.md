@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm an Engineering student and currently working on AI/ML projects and Full-Stack Web Applications<br><br>⚡ Fun fact: I enjoy exploring the intersection of math and music
+Hello, I'm an Engineering student currently working on AI/ML projects and Full-Stack Web Applications.<br><br>⚡ Fun fact about me: I enjoy exploring the intersection of math and music
 
 
 ## 🌐 Socials:
